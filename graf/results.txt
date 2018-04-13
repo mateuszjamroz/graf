@@ -1,0 +1,20 @@
+1. 	Nearest shop: 0 	Distance: 0.500 [km] 	Time: 0.125 [h] 	Path: 1 0 
+2. 	Nearest shop: 0 	Distance: 2.500 [km] 	Time: 0.625 [h] 	Path: 2 1 0 
+4. 	Nearest shop: 12 	Distance: 2.000 [km] 	Time: 0.500 [h] 	Path: 4 12 
+5. 	Nearest shop: 12 	Distance: 0.500 [km] 	Time: 0.125 [h] 	Path: 5 12 
+6. 	Nearest shop: 0 	Distance: 2.000 [km] 	Time: 0.500 [h] 	Path: 6 7 0 
+7. 	Nearest shop: 0 	Distance: 1.000 [km] 	Time: 0.250 [h] 	Path: 7 0 
+8. 	Nearest shop: 0 	Distance: 2.000 [km] 	Time: 0.500 [h] 	Path: 8 0 
+9. 	Nearest shop: 0 	Distance: 2.000 [km] 	Time: 0.500 [h] 	Path: 9 10 7 0 
+10. 	Nearest shop: 0 	Distance: 1.500 [km] 	Time: 0.375 [h] 	Path: 10 7 0 
+13. 	Nearest shop: 12 	Distance: 0.500 [km] 	Time: 0.125 [h] 	Path: 13 12 
+14. 	Nearest shop: 12 	Distance: 2.500 [km] 	Time: 0.625 [h] 	Path: 14 13 12 
+15. 	Nearest shop: 12 	Distance: 2.500 [km] 	Time: 0.625 [h] 	Path: 15 16 12 
+16. 	Nearest shop: 12 	Distance: 0.500 [km] 	Time: 0.125 [h] 	Path: 16 12 
+17. 	Nearest shop: 12 	Distance: 0.500 [km] 	Time: 0.125 [h] 	Path: 17 12 
+18. 	Nearest shop: 12 	Distance: 2.500 [km] 	Time: 0.625 [h] 	Path: 18 16 12 
+19. 	Nearest shop: 12 	Distance: 3.500 [km] 	Time: 0.875 [h] 	Path: 19 18 16 12 
+20. 	Nearest shop: 12 	Distance: 2.000 [km] 	Time: 0.500 [h] 	Path: 20 21 17 12 
+21. 	Nearest shop: 12 	Distance: 1.000 [km] 	Time: 0.250 [h] 	Path: 21 17 12 
+22. 	Nearest shop: 12 	Distance: 2.000 [km] 	Time: 0.500 [h] 	Path: 22 21 17 12 
+23. 	Nearest shop: 0 	Distance: 3.000 [km] 	Time: 0.750 [h] 	Path: 23 22 10 7 0 
